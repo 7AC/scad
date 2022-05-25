@@ -1,3 +1,3 @@
 # scad
 
-Misc OpenSCAD models.
+Misc [OpenSCAD](http://openscad.org) models.
