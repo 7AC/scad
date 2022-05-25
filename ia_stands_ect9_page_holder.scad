@@ -15,7 +15,7 @@ difference() {
     sphere(r=4/2);
     cube(size=([1, 4, 5]), center=true);
 }
-translate([0,-6,110])
+translate([0,-6,109])
     sphere(r=2.8/2);
 translate([0,-6,48])
     cylinder(h=60, r=3/2);
