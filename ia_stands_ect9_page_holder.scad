@@ -20,7 +20,7 @@ translate([0,-6,109])
     sphere(r=2.8/2);
 translate([0,-6,48])
     cylinder(h=60, r=3/2);
-translate([0,-6,48])
+translate([0,-6,49])
     sphere(r=3/2);
 rotate([7,0,0])
     cylinder(h=50, r=3/2);
